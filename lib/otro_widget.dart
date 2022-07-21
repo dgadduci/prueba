@@ -1,3 +1,3 @@
 //otro widget
-//inserte linea
+//inserte linea.
 //agrego algo.
