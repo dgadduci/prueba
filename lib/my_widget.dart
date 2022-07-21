@@ -5,6 +5,6 @@ class MyWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(child: const Text("Hola mundo!!!!!"));
+    return Container(child: const Text("Hola mundo"));
   }
 }
