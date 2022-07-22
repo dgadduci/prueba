@@ -2,7 +2,6 @@
 - luego hacer git commit -m "comentario"
 - para subir a github hacer git push
 
-<<<<<<< HEAD
 - para ver el estado de git, hacer git status o el modo abreviado: git status -s
 - para ver las modificaciones hacer git diff
 
@@ -13,11 +12,5 @@ ramas:
 
 para ver en que rama estoy y el estado de las ramas, asi como el historial de commits: git log o git log --oneline (mejor este ultimo)
 
-sadflajsdlfjdsaf
-sdajglksadhjgkldshglsdhg
-
-sdkgsagdkjkjh
-=======
 - para ver el estado de git git status o el modo abreiado: git status -s
 - para ver las modificaciones hacer git diff
->>>>>>> parent of 0bcb611 (modifique notas_git.txt en ramaC)
