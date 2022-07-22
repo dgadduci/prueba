@@ -2,5 +2,12 @@
 - luego hacer git commit -m "comentario"
 - para subir a github hacer git push
 
-- para ver el estado de git git status o el modo abreiado: git status -s
+- para ver el estado de git, hacer git status o el modo abreviado: git status -s
 - para ver las modificaciones hacer git diff
+
+ramas:
+- para crear una rama: git checkout -b nombre_rama
+- para cambiar de rama: git checkout nombre_rama
+- para unir ramas: git merge (OJO debo estar parado en la rama master)
+
+para ver en que rama estoy y el estado de las ramas, asi como el historial de commits: git log o git log --oneline (mejor este ultimo)
