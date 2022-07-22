@@ -11,3 +11,8 @@ ramas:
 - para unir ramas: git merge (OJO debo estar parado en la rama master)
 
 para ver en que rama estoy y el estado de las ramas, asi como el historial de commits: git log o git log --oneline (mejor este ultimo)
+
+sadflajsdlfjdsaf
+sdajglksadhjgkldshglsdhg
+
+sdkgsagdkjkjh
