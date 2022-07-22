@@ -4,4 +4,3 @@
 
 - para ver el estado de git git status o el modo abreiado: git status -s
 - para ver las modificaciones hacer git diff
--xxxxxxx
