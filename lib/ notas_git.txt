@@ -2,6 +2,7 @@
 - luego hacer git commit -m "comentario"
 - para subir a github hacer git push
 
+<<<<<<< HEAD
 - para ver el estado de git, hacer git status o el modo abreviado: git status -s
 - para ver las modificaciones hacer git diff
 
@@ -16,3 +17,7 @@ sadflajsdlfjdsaf
 sdajglksadhjgkldshglsdhg
 
 sdkgsagdkjkjh
+=======
+- para ver el estado de git git status o el modo abreiado: git status -s
+- para ver las modificaciones hacer git diff
+>>>>>>> parent of 0bcb611 (modifique notas_git.txt en ramaC)
