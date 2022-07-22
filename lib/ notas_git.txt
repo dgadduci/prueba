@@ -1,0 +1,6 @@
+- despues de hacer una modificacion hacer git add [nombre_de_archivo_modificado]
+- luego hacer git commit -m "comentario"
+- para subir a github hacer git push
+
+- para ver el estado de git git status o el modo abreiado: git status -s
+- para ver las modificaciones hacer git diff
