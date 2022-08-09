@@ -1,6 +1,6 @@
 # prueba
 
-A new Flutter project.
+Probando Flutter con Git
 
 ## Getting Started
 
